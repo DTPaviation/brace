@@ -806,7 +806,7 @@ var JavaHighlightRules = function() {
     "catch|extends|int|short|try|" +
     "char|final|interface|static|void|" +
     "class|finally|long|strictfp|volatile|" +
-    "const|float|native|super|while"
+    "const|float|native|super|while|def|until"
     );
 
     var buildinConstants = ("null|Infinity|NaN|undefined");
